@@ -1,4 +1,4 @@
-👋 Hi, I’m @Virussen 😈 <br>
+👋 Hi, I’m @Virussen 😈.<br>
 👨🏼‍🎓 I’m currently studying:
  - 💻 Full Stack Development. 
  - @ 🏦 Novi Hogeschool Utrecht.

@@ -1,6 +1,6 @@
 👋 Hi, I’m @Virussen 😈.<br>
 👨🏼‍🎓 I’m currently studying:
- - 💻 Full Stack Development. 
+ - 💻 Full Stack Development Bootcamp. 
  - @ 🏦 Novi Hogeschool Utrecht.
 
 <!---

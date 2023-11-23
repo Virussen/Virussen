@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Virussen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Full Stack Development @ Novi Hogeschool Utrecht. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @Virussen
+👨🏼‍🎓 I’m currently studying:
+   Full Stack Development
+   @ Novi Hogeschool Utrecht.
 
 <!---
 Virussen/Virussen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,7 +8,7 @@
  - 🔼Frontend & 🔽Backend. 
  - 🏦 @ Novi Hogeschool Utrecht.
  
-🌍🔗 www.hcgict.nl ™️ (👷🏻‍♂️W.I.P).</b>
+🌍🔗 www.hcgict.nl ™️ (👷🏻‍♂️W.I.P.).</b>
 <!---
 Virussen/Virussen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

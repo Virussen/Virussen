@@ -3,7 +3,8 @@
 😍 F1🏎️🏁,NFL🏈,PC👷🏻‍♂️🖥🖊️🎮,👂🏻🎶.
 
 👨🏼‍🎓 I’m currently studying:
- - 💻 Full Stack Development Bootcamp. 🔼Frontend & 🔽Backend. 
+ - 💻 Full Stack Development Bootcamp.
+   🔼Frontend & 🔽Backend. 
  - 🏦 @ Novi Hogeschool Utrecht.
 
 🔗 www.hcgict.nl</b>

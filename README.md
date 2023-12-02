@@ -5,7 +5,7 @@
 👨🏼‍🎓 I’m currently studying:
  - 💻 Full Stack Development Bootcamp.
 
-   🔼Frontend & 🔽Backend. 
+ - 🔼Frontend & 🔽Backend. 
  - 🏦 @ Novi Hogeschool Utrecht.
  
 🌍🔗 www.hcgict.nl ™️</b>

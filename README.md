@@ -2,6 +2,7 @@
 👨🏼‍🎓 I’m currently studying:
  - 💻 Full Stack Development Bootcamp. 
  - 🏦 @ Novi Hogeschool Utrecht.<br>
+
 🔗 www.hcgict.nl 
 <!---
 Virussen/Virussen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

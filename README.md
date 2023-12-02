@@ -1,6 +1,6 @@
 👋 <b>Hi, I’m @Virussen 😈.
 
-😍 F1 🏎️🏁  NFL 🏈 PC 🎮 👂🏻🎶.<br>
+😍 F1 🏎️🏁  NFL 🏈 PC 🎮 👂🏻🎶.
 
 👨🏼‍🎓 I’m currently studying:
  - 💻 Full Stack Development Bootcamp. 
